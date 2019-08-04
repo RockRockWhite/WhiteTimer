@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Background">Resource/Timer background.png</file>
+        <file alias="About">Resource/about.png</file>
+        <file alias="White">Resource/White.png</file>
+    </qresource>
+</RCC>
